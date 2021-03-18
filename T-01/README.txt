@@ -1,0 +1,1 @@
+Realizado sistema distribuido em formato SQL, onde um empregado, salario e departamento possuim chaves primarias e chaves estrangeiras onde se relacionam
