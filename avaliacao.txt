@@ -1,0 +1,6 @@
+AV1
+------
+
+T01 = 0.75 pts  [ faltaram os digramas e as telas de protótipo ]
+
+
