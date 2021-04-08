@@ -1,0 +1,18 @@
+Justifique a sua escolha por uma das três tecnologias RPC existentes:
+• RMI
+• DCOM
+• CORBA
+
+Minha escolha seria DCOM pois é uma tecnologia proprietária a Microsoft para 
+permitir a comunicação entre componentes de software distribuídos em uma 
+rede. Ele é uma extensão do COM (Component Object Model) que inclui 
+conceitos de distribuição e também possibilita a comunicação com aplicações 
+servidoras baseadas em COM+. O DCOM pode ser utilizado na construção de 
+aplicações em três camadas, de forma a centralizar as regras de negócio e 
+processos, obter escalabilidade e facilitar a manutenção.
+Informação A+ SOBRE O DCOM: Você não precisa alterar seu código para 
+permitir que um aplicativo cliente instancie um servidor remoto usando DCOM. 
+A diferença é a maneira como você empacota e implanta o cliente. Além disso, 
+há algumas configurações de segurança que você precisa fazer depois que o 
+cliente e o servidor estiverem instalados. Você pode fazer essas configurações 
+usando um utilitário chamado DCOMCNFG.
