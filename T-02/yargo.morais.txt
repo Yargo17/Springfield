@@ -1,0 +1,10 @@
+Nome: Yargo de Paula Morais 
+RA: 201751100146
+
+
+Justifique a sua escolha por uma das três tecnologias RPC existentes: 
+CORBA
+
+Eu escolheria CORBA porque pode ser considerada a escolha de menor risco, devido à sua maturidade, arquitetura interna e por ter interoperação com as outras duas tecnologias.
+
+A principal vantagem do CORBA em relação ao DCOM é que esta última não permite a interoperabilidade de diferentes máquinas e plataformas, dificultando sua aceitação como padrão em ambientes não-Microsoft, enquanto o CORBA é portável para praticamente qualquer plataforma. A principal vantagem do CORBA sobre RMI é o suporte a diversas linguagens de programação.
