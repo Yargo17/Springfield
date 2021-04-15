@@ -3,4 +3,11 @@ AV1
 
 T01 = 0.75 pts  [ faltaram os digramas e as telas de protótipo ]
 
+T02
+
+Matheus Felipe Moreira Cassiano Mendes	= 1 pt
+Yargo de Paula Morais			= 1 pt
+
+
+
 
