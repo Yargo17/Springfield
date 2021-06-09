@@ -11,6 +11,14 @@ T02
 T03 = 1.75 pts
 	recebi somente um diagrama
 
+=========================
+
+AV2
+-----
+
+T04 = 2.5 pts
+
+
 
 
 
